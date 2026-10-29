@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack",
+  "description": "A subscription reminder and cancellation assistant. Track recurring payments, trial expiry dates, multi-currency spending, and cancel subscriptions with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
